@@ -1,2 +1,2 @@
 # GradientMPB (Coming Soon)
-ICDM 2022 Papper: Mitigating Popularity Bias in Recommendation with Unbalanced Interactions: A Gradient Perspective
+ICDM 2022 paper: Mitigating Popularity Bias in Recommendation with Unbalanced Interactions: A Gradient Perspective
